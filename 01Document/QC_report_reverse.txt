@@ -1,0 +1,328 @@
+========================================================================
+QC REPORT - Annotations_reverse.xlsx (reverse-generated from aCRF.pdf)
+========================================================================
+
+Total FreeText annotations extracted: 789
+Off-page annotations (skipped, no row emitted): [(15, 'SUSMOKN in SUPPSU')]
+  [no annot] p4 SV.SVDAT (访视日期)
+  [no annot] p10 VS3.VSDAT (测量日期)
+  [no annot] p14 QS.QSDAT (问诊日期)
+  [no annot] p14 QS.QSPERF (参与者是否进行了筛选期问诊？)
+  [no annot] p14 QS.QSRES11 (11.现在或既往是否有乳腺癌或其它雌激素或孕激素敏感的癌症？)
+  [no annot] p14 QS.QSRES12 (12.筛选前3个月内是否有手术史，或者在试验期间是否有预期手术计划，或者接受过会影响药物吸收、分布、代谢、排泄的手术，经研究者判断不适合入组？)
+  [no annot] p14 QS.QSRES13 (13.筛选前3个月内，是否参加过其他任何临床试验且使用了任何临床研究药物或器械，或者筛选前尚在其他研究药物的7个半衰期以内，以时间长者为准？)
+  [no annot] p14 QS.QSRES14 (14.筛选前5年内是否有药物滥用史、药物依赖史或使用过毒品？)
+  [no annot] p14 QS.QSRES15 (15.饮酒情况)
+  [no annot] p14 QS.QSRES15CA1 (筛选前3个月内，平均每天饮酒量：白酒（mL/天）)
+  [no annot] p14 QS.QSRES15CA2 (筛选前3个月内，平均每天饮酒量：啤酒（mL/天）)
+  [no annot] p14 QS.QSRES15CA3 (筛选前3个月内，平均每天饮酒量：葡萄酒（mL/天）)
+  [no annot] p14 QS.QSRES15CA4 (筛选前3个月内，平均每天饮酒量：其他（mL/天）)
+  [no annot] p14 QS.QSRES15DUR (饮酒年限（年）)
+  [no annot] p14 QS.QSRES16 (16.是否愿意在试验期间停止饮用酒精类产品？)
+  [no annot] p14 QS.QSRES17 (17.吸烟情况)
+  [no annot] p14 QS.QSRES17C (平均每天吸烟量（支）)
+  [no annot] p14 QS.QSRES17DUR (吸烟年限（年）)
+  [no annot] p14 QS.QSRES18 (18.是否愿意在试验期间停止使用任何烟草类产品？)
+  [no annot] p14 QS.QSRES19 (19.筛选前3个月是否摄入过量的茶、咖啡和或含咖啡因的饮料（平均每天 8 杯以上，1 杯=200 mL）？)
+  [no annot] p14 QS.QSRES20 (20.筛选前3个月内，是否大量失血（＞400 mL）或献血，或在研究期间或研究结束后1个月内有献血计划？)
+  [no annot] p14 QS.QSRES22 (22.首次给药前12个月内是否曾使用过长效雌激素或孕激素注射剂或埋植片，或者在本试验入组前3个月内曾使用过外用控释避孕药（透皮避孕贴片）或含激素的宫内节育器？)
+  [no annot] p14 QS.QSRES23 (23.筛选前14天内，是否使用过任何处方药、非处方药、中草药或保健品（发挥局部作用的外用制剂除外）或使用任何药物未超过 7 个消除半衰期（以较长者为准）？)
+  [no annot] p14 QS.QSRES24 (24.筛选前48 h 内是否摄入葡萄柚或葡萄柚制品，或试验期间需要摄入此类产品？)
+  [no annot] p14 QS.QSRES25 (25.筛选前1个月内或试验期间或计划给药结束后1个月内是否接种疫苗[脑膜炎奈瑟氏菌（A、C、Y 和 W-135 型）和肺炎链球菌疫苗接种除外]？；)
+  [no annot] p14 QS.QSRES26 (26.在筛选前1个月内或试验期间女性参与者是否处于哺乳期，或妊娠检查结果阳性？)
+  [no annot] p14 QS.QSRES27 (27.筛选前14天内是否发生过无保护措施的性行为？)
+  [no annot] p14 QS.QSRES28 (28.是否对饮食有特殊要求、不能遵守统一饮食者或有吞咽困难？)
+  [no annot] p14 QS.QSRES3 (3.是否有胃溃疡、反流性食管炎等胃肠道疾病史？)
+  [no annot] p14 QS.QSRES30 (30.是否可能因为其他原因而不能完成本研究或研究者判断不适宜参加的情况？)
+  [no annot] p14 QS.QSRES9 (9.既往或目前是否有未诊断的异常子宫/阴道出血？)
+  [no annot] p20 EG.EGAEMHNO (请选择相关不良事件或既往病史)
+  [no annot] p20 EG.EGCSREAS (若异常有临床意义，请提供详情)
+  [no annot] p20 EG.EGDAT (检查日期)
+  [no annot] p20 EG.EGDESC (若异常，请描述)
+  [no annot] p22 LBHEMA.LBDAT (采样日期)
+  [no annot] p37 AT.ATDAT (检测日期)
+  [no annot] p37 AT.ATRES (结果判定)
+  [no annot] p40 FU.FUDAT (随访日期)
+  [no annot] p44 VS2.VS2AMNO1 (脉搏_请选择相关不良事件或既往病史)
+  [no annot] p44 VS2.VS2CLSG1 (脉搏_临床评估)
+  [no annot] p44 VS2.VS2CLSG2 (收缩压_临床评估)
+  [no annot] p44 VS2.VS2CLSG3 (舒张压_临床评估)
+  [no annot] p44 VS2.VS2CLSIG (体温（额温）_临床评估)
+  [no annot] p44 VS2.VS2DAT (检查日期)
+  [no annot] p44 VS2.VS2ND (是否检查？)
+  [no annot] p44 VS2.VS2PERF (是否进行了生命体征检查？)
+  [no annot] p44 VS2.VS2TEMP (体温（额温）（℃）)
+  [no annot] p44 VS2.VS2TIM (检查时间)
+  [no annot] p44 VS2.VS2TPT (计划检查时间点)
+  [no annot] p51 AE.AECONTRT (是否给予了合并药物治疗？)
+  [no annot] p51 AE.AECONTRT1 (是否给予了其他非药物治疗？)
+  [no annot] p51 AE.AEDIS (是否导致参与者因此不良事件退出试验？)
+  [no annot] p51 AE.AEENDAT (结束日期)
+  [no annot] p51 AE.AEENTIM (结束时间)
+  [no annot] p51 AE.AESCONG (先天性异常或者出生缺陷)
+  [no annot] p51 AE.AESDISAB (导致永久或显著的残疾/功能丧失)
+  [no annot] p51 AE.AESDTH (导致死亡)
+  [no annot] p51 AE.AESER (是否是严重不良事件？)
+  [no annot] p51 AE.AESHOSP (导致住院或住院时间延长)
+  [no annot] p51 AE.AESLIFE (危及生命)
+  [no annot] p51 AE.AESMIE (其他重要的医学事件)
+  [no annot] p51 AE.AESTDAT (开始日期)
+  [no annot] p60 LBOTH.LBOCLSIG (临床评估)
+  [no annot] p60 LBOTH.LBODAT (检查日期)
+  [no annot] p60 LBOTH.LBORES (检查结果)
+  [no annot] p61 PCU.PCUDAT (采样日期)
+  [no annot] p61 PCU.PCUTIM (采样时间)
+
+--- summary ---
+annotation rows: 228 (expect 788)
+unit rows: 0   table-header rows: 0   title rows: 0   unmatched rows: 78
+total rows: 228
+
+--- per page (page, form, annots, rows, unmatched) ---
+  p1   -       annots=-   rows=0   unmatched=0
+  p2   -       annots=-   rows=0   unmatched=0
+  p3   -       annots=-   rows=0   unmatched=0
+  p4   SV      annots=1   rows=1   unmatched=1
+  p5   ??      annots=??  rows=9   unmatched=0
+  p6   ??      annots=??  rows=9   unmatched=0
+  p7   IE      annots=43  rows=43  unmatched=1
+  p8   -       annots=-   rows=0   unmatched=0
+  p9   ??      annots=??  rows=6   unmatched=0
+  p10  VS3     annots=18  rows=18  unmatched=4
+  p11  ??      annots=??  rows=10  unmatched=0
+  p12  ??      annots=??  rows=6   unmatched=0
+  p13  ??      annots=??  rows=7   unmatched=0
+  p14  QS      annots=38  rows=38  unmatched=18
+  p15  ??      annots=??  rows=45  unmatched=0
+  p16  ??      annots=??  rows=38  unmatched=0
+  p17  ??      annots=??  rows=9   unmatched=0
+  p18  ??      annots=??  rows=19  unmatched=0
+  p19  ??      annots=??  rows=15  unmatched=0
+  p20  EG      annots=34  rows=34  unmatched=12
+  p21  ??      annots=??  rows=3   unmatched=0
+  p22  LBHEMA  annots=25  rows=25  unmatched=9
+  p23  ??      annots=??  rows=5   unmatched=0
+  p24  ??      annots=??  rows=28  unmatched=0
+  p25  ??      annots=??  rows=12  unmatched=0
+  p26  ??      annots=??  rows=24  unmatched=0
+  p27  ??      annots=??  rows=4   unmatched=0
+  p28  ??      annots=??  rows=19  unmatched=0
+  p29  ??      annots=??  rows=8   unmatched=0
+  p30  ??      annots=??  rows=9   unmatched=0
+  p31  ??      annots=??  rows=9   unmatched=0
+  p32  ??      annots=??  rows=9   unmatched=0
+  p33  ??      annots=??  rows=9   unmatched=0
+  p34  ??      annots=??  rows=15  unmatched=0
+  p35  ??      annots=??  rows=11  unmatched=0
+  p36  ??      annots=??  rows=33  unmatched=0
+  p37  AT      annots=8   rows=8   unmatched=5
+  p38  ??      annots=??  rows=12  unmatched=0
+  p39  ??      annots=??  rows=11  unmatched=0
+  p40  FU      annots=7   rows=7   unmatched=3
+  p41  ??      annots=??  rows=16  unmatched=0
+  p42  ??      annots=??  rows=16  unmatched=0
+  p43  ??      annots=??  rows=13  unmatched=0
+  p44  VS2     annots=26  rows=26  unmatched=14
+  p45  -       annots=-   rows=0   unmatched=0
+  p46  ??      annots=??  rows=22  unmatched=0
+  p47  ??      annots=??  rows=16  unmatched=0
+  p48  ??      annots=??  rows=4   unmatched=0
+  p49  ??      annots=??  rows=5   unmatched=0
+  p50  ??      annots=??  rows=8   unmatched=0
+  p51  AE      annots=15  rows=15  unmatched=4
+  p52  ??      annots=??  rows=11  unmatched=0
+  p53  ??      annots=??  rows=19  unmatched=0
+  p54  ??      annots=??  rows=3   unmatched=0
+  p55  ??      annots=??  rows=13  unmatched=0
+  p56  ??      annots=??  rows=10  unmatched=0
+  p57  ??      annots=??  rows=9   unmatched=0
+  p58  ??      annots=??  rows=1   unmatched=0
+  p59  ??      annots=??  rows=1   unmatched=0
+  p60  LBOTH   annots=8   rows=8   unmatched=4
+  p61  PCU     annots=5   rows=5   unmatched=3
+
+--- unmatched annotations (page, text, rect) ---
+  p4 '[NOT SUBMITTED]' rect=(35.8, 731.6, 146.8, 749.6)
+  p7 'IE (不满足的入选/排除标准)' rect=(33.5, 739.2, 189.5, 755.7)
+  p10 'VS (生命体征)' rect=(38.3, 738.3, 122.9, 756.3)
+  p10 'VSDTC' rect=(397.1, 623.1, 442.4, 638.1)
+  p10 'VSSTAT = 未查 when VSTESTCD = VSALL' rect=(333.2, 656.7, 578.9, 673.8)
+  p10 'VSTEST = 生命体征' rect=(173.3, 657.3, 289.1, 674.4)
+  p14 'FA (事件或干预相关发现)' rect=(36.6, 745.8, 181.3, 762.3)
+  p14 'FAOBJ = 筛选期问诊' rect=(36.6, 726.7, 158.8, 744.0)
+  p14 'FATEST = 同意避孕至末次给药后60天' rect=(36.9, 547.5, 253.6, 565.9)
+  p14 'FATEST = 有严重系统疾病不宜参加' rect=(38.1, 478.5, 245.0, 496.9)
+  p14 'FATEST = 有胃溃疡/反流性食管炎史' rect=(36.6, 431.6, 243.9, 450.0)
+  p14 'FATEST = 有荚膜菌感染/脑膜炎密接' rect=(36.9, 370.2, 243.9, 388.5)
+  p14 'FATEST= 结核史/TB阳性/胸片疑结核' rect=(36.2, 300.1, 242.8, 319.2)
+  p14 'FATEST = 30天内严重感染如肺炎' rect=(36.6, 249.8, 228.9, 268.2)
+  p14 'FATEST = 3月内有带状疱疹史' rect=(35.4, 189.8, 207.1, 208.2)
+  p14 'FATEST = 有肾功能/肾上腺损害' rect=(35.8, 123.8, 217.6, 143.0)
+  p14 'FATEST = 有未诊断异常子宫出血' rect=(36.9, 64.6, 228.1, 84.1)
+  p14 'FAORRES' rect=(341.7, 663.4, 404.7, 678.3)
+  p14 'FADTC' rect=(399.5, 622.9, 444.8, 639.0)
+  p14 'FATEST = 是否进行筛选期问诊' rect=(35.4, 651.4, 212.8, 671.2)
+  p14 'FATESTCD = SCINT' rect=(35.4, 694.8, 153.2, 711.0)
+  p14 'SUSTTPT' rect=(452.3, 621.7, 515.0, 638.2)
+  p14 'SU (嗜好品使用)' rect=(186.1, 745.1, 281.8, 762.3)
+  p14 'FATEST = 有深静脉血栓/肺栓塞' rect=(36.6, 27.5, 216.1, 47.0)
+  p20 'EG (心电图)' rect=(36.6, 737.6, 107.8, 754.1)
+  p20 'EGMETHOD = 12导联' rect=(118.7, 710.6, 248.8, 725.6)
+  p20 'EGSTAT = 未查 when EGTESTCD = EGALL' rect=(330.1, 658.1, 574.9, 673.1)
+  p20 'EGTEST = 12导联心电图' rect=(117.5, 653.6, 260.8, 670.5)
+  p20 'EGDTC' rect=(400.6, 624.0, 447.5, 639.0)
+  p20 'EGORRESU' rect=(364.2, 546.7, 438.1, 562.1)
+  p20 'EGORRES' rect=(368.7, 440.3, 433.6, 455.3)
+  p20 'EGORRES' rect=(364.6, 583.5, 429.5, 598.5)
+  p20 'EGORRESU' rect=(372.1, 188.7, 446.0, 203.7)
+  p20 'EGORRES' rect=(370.2, 296.7, 435.5, 311.7)
+  p20 'EGTESTCD = INTP' rect=(108.5, 119.0, 225.1, 135.1)
+  p20 'EGDES in SUPPEG' rect=(382.7, 68.6, 499.7, 84.5)
+  p22 'LB (实验室检查)' rect=(36.5, 754.2, 131.3, 770.7)
+  p22 'LBSTAT = 未查 when LBTESTCD = LBALL' rect=(330.2, 656.4, 566.9, 673.8)
+  p22 'LBDTC' rect=(396.5, 626.7, 440.9, 641.7)
+  p22 'LBTEST = 实验室检查' rect=(167.6, 654.6, 292.7, 672.0)
+  p22 '[NOT SUBMITTED]' rect=(334.1, 588.9, 443.6, 603.9)
+  p22 'LBORRES' rect=(344.3, 188.6, 406.7, 203.6)
+  p22 'LBORRESU' rect=(344.3, 153.5, 418.1, 169.4)
+  p22 'LBORNRLO' rect=(344.3, 114.8, 415.1, 129.8)
+  p22 'LBORNRHI' rect=(344.3, 80.6, 411.2, 95.6)
+  p37 'LB (实验室检查)' rect=(34.7, 759.0, 129.5, 775.5)
+  p37 'LBTESTCD = ETHANOL' rect=(36.5, 688.5, 174.5, 703.5)
+  p37 'LBSTAT = 未查' rect=(329.6, 653.7, 418.7, 670.8)
+  p37 'LBDTC' rect=(404.9, 621.6, 449.3, 636.6)
+  p37 'LBORRES' rect=(352.1, 572.7, 414.2, 587.7)
+  p40 'SS (受试者状态)' rect=(35.3, 742.2, 131.3, 759.3)
+  p40 'SSDTC' rect=(174.5, 586.2, 224.3, 602.1)
+  p40 'SSSTAT = 未查' rect=(341.3, 655.8, 433.1, 672.9)
+  p44 'VSCLSIGC in SUPPVS' rect=(417.8, 676.1, 552.1, 693.7)
+  p44 'VSCLSIGC in SUPPVS' rect=(417.8, 514.9, 552.1, 532.5)
+  p44 'VSAEMHNO in SUPPVS' rect=(417.8, 435.4, 556.6, 450.4)
+  p44 'VSCLSIGC in SUPPVS' rect=(417.8, 346.9, 552.1, 364.5)
+  p44 'VSCLSIGC in SUPPVS' rect=(417.8, 186.5, 552.1, 204.1)
+  p44 'VSORRESU' rect=(39.2, 552.0, 111.5, 567.0)
+  p44 'VSTESTCD = PULSE' rect=(155.8, 559.1, 278.0, 574.1)
+  p44 'VSORRESU' rect=(60.5, 385.5, 132.9, 402.4)
+  p44 'VSORRESU' rect=(64.3, 223.6, 136.7, 238.6)
+  p44 'VSTESTCD = SYSBP' rect=(151.3, 394.9, 273.9, 409.9)
+  p44 'VSTESTCD = DIABP' rect=(150.5, 233.3, 269.0, 248.3)
+  p44 'VSORRES' rect=(417.8, 399.0, 481.2, 415.2)
+  p44 'VSORRES' rect=(419.7, 234.4, 483.5, 250.9)
+  p44 'VS (生命体征)' rect=(35.8, 783.3, 118.3, 799.8)
+  p51 'AE (不良事件)' rect=(36.2, 742.5, 119.0, 763.5)
+  p51 'AEENTPT = 研究结束' rect=(164.8, 476.6, 288.9, 494.6)
+  p51 'AEENRTPT = 之前' rect=(335.7, 465.8, 443.3, 485.6)
+  p51 'AEENDTC' rect=(198.9, 429.4, 261.5, 444.4)
+  p60 'LB (实验室检查)' rect=(34.7, 748.2, 129.5, 764.7)
+  p60 'LBDTC' rect=(167.0, 612.4, 211.6, 627.4)
+  p60 'LBORRES' rect=(167.0, 572.6, 229.6, 587.6)
+  p60 'LBCLSIGC in SUPPLB' rect=(167.0, 498.0, 302.7, 515.6)
+  p61 'If this box was checked, no record will be submitted' rect=(16.7, 652.5, 300.9, 670.8)
+  p61 'PC (药代动力学浓度)' rect=(36.2, 726.7, 156.2, 743.2)
+  p61 'PCDTC' rect=(185.8, 548.2, 231.9, 563.2)
+
+--- aliases used ---
+  p20 'EGTESTCD = EGHRMN' -> HR
+  p20 'EGTESTCD = RRAG' -> RR
+  p20 'EGTESTCD = QRSAG' -> QRS
+  p20 'EGTESTCD = QTAG' -> QT
+  p20 'EGTESTCD = QTCFAG' -> QTCF
+  p20 'EGTESTCD = PRAG' -> PR
+
+--- unit rows without unit text on page ---
+
+--- old vs new row counts ---
+  p1   old=0   new=0  
+  p2   old=0   new=0  
+  p3   old=0   new=0  
+  p4   old=2   new=1  
+  p5   old=7   new=9  
+  p6   old=8   new=9  
+  p7   old=9   new=43 
+  p8   old=1   new=0  
+  p9   old=6   new=6  
+  p10  old=16  new=18 
+  p11  old=11  new=10 
+  p12  old=6   new=6  
+  p13  old=7   new=7  
+  p14  old=24  new=38 
+  p15  old=23  new=45 
+  p16  old=24  new=38 
+  p17  old=5   new=9  
+  p18  old=10  new=19 
+  p19  old=11  new=15 
+  p20  old=41  new=34 
+  p21  old=2   new=3  
+  p22  old=8   new=25 
+  p23  old=2   new=5  
+  p24  old=8   new=28 
+  p25  old=3   new=12 
+  p26  old=8   new=24 
+  p27  old=2   new=4  
+  p28  old=8   new=19 
+  p29  old=8   new=8  
+  p30  old=8   new=9  
+  p31  old=9   new=9  
+  p32  old=9   new=9  
+  p33  old=9   new=9  
+  p34  old=6   new=15 
+  p35  old=10  new=11 
+  p36  old=23  new=33 
+  p37  old=10  new=8  
+  p38  old=9   new=12 
+  p39  old=10  new=11 
+  p40  old=7   new=7  
+  p41  old=13  new=16 
+  p42  old=12  new=16 
+  p43  old=11  new=13 
+  p44  old=3   new=26 
+  p45  old=4   new=0  
+  p46  old=23  new=22 
+  p47  old=2   new=16 
+  p48  old=8   new=4  
+  p49  old=2   new=5  
+  p50  old=17  new=8  
+  p51  old=17  new=15 
+  p52  old=2   new=11 
+  p53  old=17  new=19 
+  p54  old=3   new=3  
+  p55  old=12  new=13 
+  p56  old=16  new=10 
+  p57  old=7   new=9  
+  p58  old=20  new=1  
+  p59  old=1   new=1  
+  p60  old=0   new=8  
+  p61  old=0   new=5  
+
+--- verification errors ---
+  annotation row count 228 != 788
+
+--- spot checks ---
+  IETEST p7: {'FieldOID': 'IETEST', 'Field': '入选标准', 'Item': None, 'annotation': 'IETESTCD = INCL01', 'Number': 5, 'X1_Field': 306.8999, 'Y1_Field': 565.2035, 'Item_up': 195, 'Anno_low': 445.3, 'i': 1, 'Annotation_': None}
+  IETEST1 p7: {'FieldOID': 'IETEST1', 'Field': '排除标准', 'Item': None, 'annotation': 'IETESTCD = EXCL01', 'Number': 33, 'X1_Field': 310.8005, 'Y1_Field': 495.2917, 'Item_up': 195, 'Anno_low': 441.292, 'i': 1, 'Annotation_': None}
+  AEOUT p51: {'FieldOID': 'AEOUT', 'Field': '转归', 'Item': None, 'annotation': 'AEOUT\n', 'Number': 6, 'X1_Field': 440.5971, 'Y1_Field': 85.46399999999994, 'Item_up': 195, 'Anno_low': 514.324, 'i': 1, 'Annotation_': None}
+  row p60: {'FieldOID': None, 'Field': None, 'Item': None, 'annotation': 'LB (实验室检查)', 'Number': 1, 'X1_Field': 139.4718, 'Y1_Field': 748.2343, 'Item_up': 195, 'Anno_low': 472.996, 'i': 1, 'Annotation_': None}
+  row p61: {'FieldOID': None, 'Field': None, 'Item': None, 'annotation': 'PC (药代动力学浓度)', 'Number': 1, 'X1_Field': 166.1547, 'Y1_Field': 726.7117, 'Item_up': 195, 'Anno_low': 447.004, 'i': 1, 'Annotation_': None}
+
+--- inference rules / documented deviations from the old file ---
+  1. X1_Field: single-annotation block -> X2+10; multi-annotation block -> first row 43, following rows prev X1_Field + prev Width_annotation + 10; unit/table rows -> X2+10.
+  2. Y1_Field/Y2_Field: matched label band (within 30pt of the annotation) else the annotation band; Y2 = Y1 + 13.
+  3. Item columns: only YN option rows (Item=yes/no, Width_itemc=len*12), dict-entry rows (Item=entry text) and unit rows (Item="&_"+unit, Item_up=231). Item_up = 195 otherwise, 207 for YN/dict-entry rows.
+  4. X1_Item/Y1_Item/Y2_Item: present only for dict-field rows and non-field rows (domain/table/unit); band = dict entry text on page, else label band, else annotation band; Y2 = Y1 + 13.
+  5. Number = count of DataDictionaryEntry rows for the field dataDictionaryOID (1 for non-dict and non-field rows). Verified against the old file (IETEST=5, IETEST1=33, IECAT=2, AESEV=3, AEREL=5, AEACN=4, AEOUT=6).
+  6. Anno_low = 559 - (sum of block Width_annotation + 3.12*(n-1)); a single-[NOT SUBMITTED] block gets +2.0 (old-tool quirk, reproduced). No-annotation rows: 559.
+  7. Width_annotation uses the standard Helvetica AFM table at 12pt (IETEST=42.012, "|"=3.12, CJK=12.0). The old tool used a slightly wider near-AFM table (IETEST=42.584), so width-derived values differ by <2%.
+  8. i = position of the annotation in the PDF /Annots array order (creation order); the old file i-order came from the OLD PDF array and cannot be reproduced for re-drawn annotations. Row order within a band = y desc, x desc.
+  9. Domain block: all domain annotations of the page (name regex or *CAT = ... with y1>700) form one block; each annotation keeps its own real /Rect (the old file stacked all block rows on one synthetic rect).
+  10. YN option rows: an annotation whose band overlaps one option band (>=2pt) is attributed to that field with Item=option; overlapping a shared side-by-side band -> field-level row with empty Item.
+  11. Grid rows: annotations sharing a band (<=6pt) with a TESTCD = code anchor inherit the anchor field (e.g. EGORRES/EGTEST on the HR row -> HR; IEORRES = N/Y -> the IETEST/IETEST1 row).
+  12. VAR = value: VAR in the form field set wins; else the value (VSTESTCD = HEIGHT -> HEIGHT), else the alias table, else the per-form special table, else the code patterns INCLxx/EXCLxx/SCINTxx/ADINTxx.
+  13. --DTC style annotations (SVSTDTC/AESTDTC/EGDTC/LBDTC) are pure VARS not present in als and are matched geometrically to their label band (SVDAT/AESTDAT or AESTTIM/EGDAT/LBDAT).
+  14. LabTableTitle rows: an annotation whose text is one of the 9 column VARS (LBORRES/LBORRESU/...) with the matching Chinese column title line in its band -> Field=title, FieldOID empty, Highlight=1. The old file instead emitted one synthetic 单位 row per lab page; not reproduced.
+  15. 表格行 rows: forms VS2/VS1/PC/AE/CM only; a group of >=3 same-top text lines spanning >150pt between the domain annotations and the first field annotation -> one row (Form=表格行, FormOID empty).
+  16. Unit rows: fields whose label ends with 单位, have an als unit value, and carry no annotation on the page -> one synthetic row at the unit text band (X1..Y2 = unit text bbox, X1_Field = X2+10, Item="&_"+unit, Item_up=231). Width_itemc uses len*12 (old-tool convention); Width_iteme uses AFM (old tool used 12 flat for "ms" -> 14.916 now).
+  17. FieldOID_Lag = FieldOID of the previous block (all rows of a block share it; empty after a 表格行 block). The old tool had a self-lag bug on AESEV/AEREL/AEACN/AEREL1/AEACN1 (FieldOID_Lag = own FieldOID); not reproduced.
+  18. Highlight = 1 only for table-header and LabTableTitle rows; the old file set it inconsistently. DASHED_BORDER = 1 iff the annotation /BS contains /D. BACKGROUND = annotation /C (0.75 1 1 or 1 1 0.58824 for the yellow DS/SU/EX groups); synthetic rows get 0.75 1 1.
+  19. Domain column (never filled in the old file): page domain from the domain annotation, else the *CAT prefix, else the formOID table (LB*/VS*/QS1/PCU/DSSCR/DSEOT handled).
+  20. Pages 8 and 45 carry no annotations and emit no rows. Pages 60/61 (LBOTH/PCU) are new relative to the old file. The p15 "SUSMOKN in SUPPSU" annotation lies off the page (y2<0) and is skipped.
+  21. Rows with annotations that could not be mapped keep an empty FieldOID/Field and are listed in the unmatched section of this report.
